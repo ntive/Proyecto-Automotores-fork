@@ -344,3 +344,4 @@ seccion5.addEventListener('click', (e) => {
   translate = -80;
 })
 
+// CODIGO REVISADO POR CARLITOS
